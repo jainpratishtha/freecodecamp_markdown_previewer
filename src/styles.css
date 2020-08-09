@@ -1,4 +1,23 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+body {
+  background: #87b5b5;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  /*     width:100vh; */
+  /*     height:100vh;  */
+}
+#editor {
+  align-items: center;
+  background: #c0d8d8;
+  width: 100vh;
+  height: 200vh;
+}
+#preview {
+  align-items: center;
+  background: #c0d8d8;
+  width: 100vh;
+  height: 100vh;
 }
