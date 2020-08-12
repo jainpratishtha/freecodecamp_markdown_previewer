@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import marked from "marked";
+import "./styles.css";
 
 const initalState = `
 # Headin 1
